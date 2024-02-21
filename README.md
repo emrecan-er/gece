@@ -4,7 +4,7 @@
 1-Open the terminal and clone the repo.
 
 ```bash
-  git clone https://github.com/emrecan-er/drillapp.git
+download the project and open it on the editor
 ```
 
 2-Please make sure you have flutter installed. If you do not, follow the steps from [here](https://docs.flutter.dev/get-started/install)
